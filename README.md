@@ -44,7 +44,7 @@ Saldırganların yaygın olarak kullandığı taktikleri ve teknikleri öğrenme
 
 ---
 
-Bu proje, güvenlik konularında temel bir anlayış kazanmak isteyen herkes için faydalı olabilir. Lütfen projenin altındaki kaynakları kullanarak daha fazla bilgi edinin ve güvenlik konusundaki becerilerinizi geliştirin. Ayrıca, projeyi fork ederek veya katkıda bulunarak geliştirmeye katkıda bulunabilirsiniz. Her türlü soru ve önerileriniz için iletişime geçmekten çekinmeyin. Güvenliğe hoş geldiniz!
+Bu proje, güvenlik konularında temel bir anlayış kazanmak isteyen herkes için faydalı olabilir. Lütfen projenin altındaki kaynakları kullanarak daha fazla bilgi edinin ve güvenlik konusundaki becerilerinizi geliştirin. Ayrıca, projeyi fork ederek veya katkıda bulunarak geliştirmeye katkıda bulunabilirsiniz. Her türlü soru ve önerileriniz için iletişime geçmekten çekinmeyin. 
 
 ## Nasıl Katkı Sağlayabilirim?
 
