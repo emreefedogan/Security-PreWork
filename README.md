@@ -1,4 +1,6 @@
 # Security Pre-Work Open Source Project with React + Vite 
+
+##[Direct Netlify Link](https://friendly-rabanadas-97664a.netlify.app)
 ![SecurityPrework](https://github.com/emreefedogan/Security-PreWork/assets/52632488/b9302e91-501c-48d8-8234-b02963dabd01)
 
 ## Security Pre-Work Nedir ?
