@@ -1,11 +1,14 @@
 # Security Pre-Work Open Source Project with React + Vite 
 ![SecurityPrework](https://github.com/emreefedogan/Security-PreWork/assets/52632488/b9302e91-501c-48d8-8234-b02963dabd01)
 
-# Nasıl Katkı Sağlayabilirim?
-1-) Proje klasörünü kendi bilgisayarınıza klonlayın.
-2-) İlgilendiğiniz bir konuyu seçin veya yeni bir konu önerin.
-3-) Konu üzerinde çalışın ve değişiklikleri yapın.
-4-) Pull isteği oluşturun, böylece değişiklikler gözden geçirilebilir ve projeye entegre edilebilir.
+
+## Nasıl Katkı Sağlayabilirim?
+
+1. Proje deposunu kendi bilgisayarınıza klonlayın.
+2. İlgilendiğiniz bir konuyu seçin veya yeni bir konu önerin.
+3. Konu üzerinde çalışın ve değişiklikleri yapın.
+4. "Pull isteği" oluşturarak değişikliklerin gözden geçirilmesini ve projeye entegre edilmesini sağlayın.
+
 
 
 Currently, two official plugins are available:
